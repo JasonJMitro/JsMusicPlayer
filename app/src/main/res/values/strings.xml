@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Js Music Player</string>
+    <string name="description_now_playing">On this screen you can play or pause the song. You can also press a button to return to the screen with the list of songs/artists</string>
+    <string name="main_screen">main screen</string>
+    <string name="Imaginary_Artist1">Imaginary Artist1</string>
+    <string name="Imaginary_Song1">Imaginary Song1</string>
+    <string name="Imaginary_Artist2">Imaginary Artist2</string>
+    <string name="Imaginary_Song2">Imaginary Song2</string>
+    <string name="Imaginary_Artist3">Imaginary Artist3</string>
+    <string name="Imaginary_Song3">Imaginary Song3</string>
+    <string name="Imaginary_Artist4">Imaginary Artist4</string>
+    <string name="Imaginary_Song4">Imaginary Song4</string>
+    <string name="Imaginary_Artist5">Imaginary Artist5</string>
+    <string name="Imaginary_Song5">Imaginary Song5</string>
+    <string name="Imaginary_Artist6">Imaginary Artist6</string>
+    <string name="Imaginary_Song6">Imaginary Song6</string>
+    <string name="Imaginary_Artist7">Imaginary Artist7</string>
+    <string name="Imaginary_Song7">Imaginary Song7</string>
+    <string name="Imaginary_Artist8">Imaginary Artist8</string>
+    <string name="Imaginary_Song8">Imaginary Song8</string>
+    <string name="main_description">This screen contains the list of items the user has in their library. Each item lists the Artists name and song title</string>
+    <string name="now_Playing">now Playing</string>
+    <string name="Imaginary_Artist9">Imaginary Artist9</string>
+    <string name="Imaginary_Song9">Imaginary Song9</string>
+    <string name="Imaginary_Artist10">Imaginary Artist10</string>
+    <string name="Imaginary_Song10">Imaginary Song10</string>
+    <string name="Imaginary_Artist11">Imaginary Artist11</string>
+    <string name="Imaginary_Song11">Imaginary Song11</string>
+    <string name="Imaginary_Artist12">Imaginary Artist12</string>
+    <string name="Imaginary_Song12">Imaginary Song12</string>
+    <string name="play">play</string>
+    <string name="stop">stop</string>
+    <string name="pause">pause</string>
+    <string name="now_playing">NOW PLAYING</string>
+</resources>
